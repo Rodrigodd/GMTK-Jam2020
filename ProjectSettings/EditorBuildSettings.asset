@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/scene02/scene2.unity
     guid: 903a8b7a977b0394dac7d39416142b05
   - enabled: 1
+    path: Assets/Scenes/ButtonFleeport/ButtonFlee.unity
+    guid: e01822dda4a6cdc4b87614917e2c3907
+  - enabled: 1
+    path: Assets/Scenes/scenePEPE/scenePEPE.unity
+    guid: 9ba080e72a71c8b4ba69ce63fe862bae
+  - enabled: 1
     path: Assets/Scenes/scene03/scene3.unity
     guid: c45b2332391d82646a78e02a52cea5de
   - enabled: 1
@@ -33,6 +39,9 @@ EditorBuildSettings:
     path: Assets/Scenes/invisiblebutton/invisibleButton.unity
     guid: 2fb0975d8db9ace49bb527bcb14c6f53
   - enabled: 1
+    path: Assets/Scenes/scenePEPE2/scenePEPE2.unity
+    guid: 9a7b367836ce4b64c9fcda419ca0b01b
+  - enabled: 1
     path: Assets/Scenes/Prompt/Prompt 1.unity
     guid: 2dccb66ebdc323b4fafbaa633ba8cbb6
   - enabled: 1
@@ -42,8 +51,14 @@ EditorBuildSettings:
     path: Assets/Scenes/languagepuzzle/languagePuzzle.unity
     guid: ee20443d08697824b92bdebf1e68e411
   - enabled: 1
+    path: Assets/Scenes/scenePEPE3/scenePEPE3.unity
+    guid: df8964cc02664394e9119967045b2810
+  - enabled: 1
     path: Assets/Scenes/ButtonFlee/ButtonFlee 1.unity
     guid: 5f725cd655725904a8a6d867e31d7339
+  - enabled: 1
+    path: Assets/Scenes/knockCode/KnockCode.unity
+    guid: d669a2b7c18a7c1469cba79735852dbb
   - enabled: 1
     path: Assets/Scenes/Prompt/Prompt 2.unity
     guid: c4d44ed599c2a6546ad805bb29e05707

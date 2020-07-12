@@ -21,10 +21,13 @@ public class NextSceneButton : MonoBehaviour
 
     public void previoussceneButton(){
         if (!transition) {
-            transition = true;
             int curr = SceneManager.GetActiveScene().buildIndex;
             if (curr != 0) {
-                SceneManager.LoadScene(curr - 1);
+                transition = true;
+                GameObject trans = new GameObject("Transition");
+                Transition t = trans.AddComponent<Transition>();
+                t.duration = t.duration / 2.0f;
+                t.nextScene = curr - 1;
             }
         }
     }
