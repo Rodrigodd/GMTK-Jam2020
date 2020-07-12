@@ -20,12 +20,10 @@ public class AutoLocale : MonoBehaviour
         AutoLocale.strings = new Dictionary<string, string[]>();
         TextAsset textFile =(TextAsset)Resources.Load("strings");
         string text = textFile.text;
-        print(text);
         string[] lines = text.Split('\n');
         foreach (string line in lines) {
             string[] words = line.Trim().Split(',');
             string key = words[0];
-            print(key);
             string[] value = new string[words.Length - 1];
             Array.Copy(words, 1, value, 0, words.Length - 1);
             AutoLocale.strings.Add(key, value);

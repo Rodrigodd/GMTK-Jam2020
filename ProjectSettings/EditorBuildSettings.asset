@@ -6,15 +6,48 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/scene0/Scene0.unity
+    path: Assets/Scenes/Fase1/Scene0.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/scene1/scene1.unity
+    path: Assets/Scenes/scene01/scene1.unity
     guid: 5c34ba918195bd34d9454f7eeaabe431
   - enabled: 1
-    path: Assets/Scenes/scene2/scene2.unity
+    path: Assets/Scenes/scene02/scene2.unity
     guid: 903a8b7a977b0394dac7d39416142b05
   - enabled: 1
-    path: Assets/Scenes/test(game).unity
+    path: Assets/Scenes/scene03/scene3.unity
+    guid: c45b2332391d82646a78e02a52cea5de
+  - enabled: 1
+    path: Assets/Scenes/Prompt/Prompt 0.unity
+    guid: 1a9a31d34638a1748a4c4f404ef613c1
+  - enabled: 1
+    path: Assets/Scenes/Fase2/new pattern.unity
+    guid: b8cdf8dd4dc025d46b0f465e7f8952d8
+  - enabled: 1
+    path: Assets/Scenes/ButtonFlee/ButtonFlee.unity
+    guid: be59db88d6790904d8775a2c0e5731f2
+  - enabled: 1
+    path: Assets/Scenes/espelhada/espelhado.unity
+    guid: f407a643d7650a647a7fc22f4bc95f4b
+  - enabled: 1
+    path: Assets/Scenes/invisiblebutton/invisibleButton.unity
+    guid: 2fb0975d8db9ace49bb527bcb14c6f53
+  - enabled: 1
+    path: Assets/Scenes/Prompt/Prompt 1.unity
+    guid: 2dccb66ebdc323b4fafbaa633ba8cbb6
+  - enabled: 1
+    path: Assets/Scenes/Fase3/Fase3pattern.unity
+    guid: c51dad8a3f08ea34ba1cf819f8073965
+  - enabled: 1
+    path: Assets/Scenes/languagepuzzle/languagePuzzle.unity
+    guid: ee20443d08697824b92bdebf1e68e411
+  - enabled: 1
+    path: Assets/Scenes/ButtonFlee/ButtonFlee 1.unity
+    guid: 5f725cd655725904a8a6d867e31d7339
+  - enabled: 1
+    path: Assets/Scenes/Prompt/Prompt 2.unity
+    guid: c4d44ed599c2a6546ad805bb29e05707
+  - enabled: 1
+    path: Assets/Scenes/Menu Final/THE GAME.unity
     guid: ee54a75e8c59fb64084bd8faa7563c5b
   m_configObjects: {}
