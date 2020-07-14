@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Fase1/Scene0.unity
+    path: Assets/Scenes/Scene00/Scene0.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/scene01/scene1.unity
@@ -15,54 +15,63 @@ EditorBuildSettings:
     path: Assets/Scenes/scene02/scene2.unity
     guid: 903a8b7a977b0394dac7d39416142b05
   - enabled: 1
-    path: Assets/Scenes/ButtonFleeport/ButtonFlee.unity
-    guid: e01822dda4a6cdc4b87614917e2c3907
-  - enabled: 1
-    path: Assets/Scenes/scenePEPE/scenePEPE.unity
-    guid: 9ba080e72a71c8b4ba69ce63fe862bae
-  - enabled: 1
-    path: Assets/Scenes/scene03/scene3.unity
-    guid: c45b2332391d82646a78e02a52cea5de
-  - enabled: 1
-    path: Assets/Scenes/Prompt/Prompt 0.unity
-    guid: 1a9a31d34638a1748a4c4f404ef613c1
-  - enabled: 1
-    path: Assets/Scenes/Fase2/new pattern.unity
-    guid: b8cdf8dd4dc025d46b0f465e7f8952d8
-  - enabled: 1
-    path: Assets/Scenes/ButtonFlee/ButtonFlee.unity
-    guid: be59db88d6790904d8775a2c0e5731f2
-  - enabled: 1
-    path: Assets/Scenes/espelhada/espelhado.unity
-    guid: f407a643d7650a647a7fc22f4bc95f4b
-  - enabled: 1
-    path: Assets/Scenes/invisiblebutton/invisibleButton.unity
-    guid: 2fb0975d8db9ace49bb527bcb14c6f53
-  - enabled: 1
-    path: Assets/Scenes/scenePEPE2/scenePEPE2.unity
+    path: Assets/Scenes/scene11 PEPE2/scenePEPE2.unity
     guid: 9a7b367836ce4b64c9fcda419ca0b01b
   - enabled: 1
-    path: Assets/Scenes/Prompt/Prompt 1.unity
+    path: Assets/Scenes/scene03 ButtonFleeport/ButtonFleeport.unity
+    guid: e01822dda4a6cdc4b87614917e2c3907
+  - enabled: 1
+    path: Assets/Scenes/scene06 prompt01/Prompt 00.unity
+    guid: 1a9a31d34638a1748a4c4f404ef613c1
+  - enabled: 1
+    path: Assets/Scenes/scene07/new pattern.unity
+    guid: b8cdf8dd4dc025d46b0f465e7f8952d8
+  - enabled: 1
+    path: Assets/Scenes/scene08 ButtonFlee/ButtonFlee.unity
+    guid: be59db88d6790904d8775a2c0e5731f2
+  - enabled: 1
+    path: Assets/Scenes/scene09 espelhada/espelhado.unity
+    guid: f407a643d7650a647a7fc22f4bc95f4b
+  - enabled: 1
+    path: Assets/Scenes/scene10 InvisibleButton/invisibleButton.unity
+    guid: 2fb0975d8db9ace49bb527bcb14c6f53
+  - enabled: 1
+    path: Assets/Scenes/scene04 PEPE1/scenePEPE.unity
+    guid: 9ba080e72a71c8b4ba69ce63fe862bae
+  - enabled: 1
+    path: Assets/Scenes/scene06 prompt01/Prompt 01.unity
     guid: 2dccb66ebdc323b4fafbaa633ba8cbb6
   - enabled: 1
-    path: Assets/Scenes/Fase3/Fase3pattern.unity
+    path: Assets/Scenes/scene13 Fase3/Fase3pattern.unity
     guid: c51dad8a3f08ea34ba1cf819f8073965
   - enabled: 1
-    path: Assets/Scenes/languagepuzzle/languagePuzzle.unity
+    path: Assets/Scenes/scene14 languagepuzzle/languagePuzzle.unity
     guid: ee20443d08697824b92bdebf1e68e411
   - enabled: 1
-    path: Assets/Scenes/scenePEPE3/scenePEPE3.unity
+    path: Assets/Scenes/scene15 PEPE03/scenePEPE3.unity
     guid: df8964cc02664394e9119967045b2810
   - enabled: 1
-    path: Assets/Scenes/ButtonFlee/ButtonFlee 1.unity
+    path: Assets/Scenes/scene08 ButtonFlee/ButtonFlee 1.unity
     guid: 5f725cd655725904a8a6d867e31d7339
   - enabled: 1
-    path: Assets/Scenes/knockCode/KnockCode.unity
+    path: Assets/Scenes/scene17 knockcode/KnockCode.unity
     guid: d669a2b7c18a7c1469cba79735852dbb
   - enabled: 1
-    path: Assets/Scenes/Prompt/Prompt 2.unity
+    path: Assets/Scenes/scene06 prompt01/Prompt 02.unity
     guid: c4d44ed599c2a6546ad805bb29e05707
+  - enabled: 1
+    path: Assets/Scenes/scene18/fase 4.unity
+    guid: d6c0db49f5671074798f606bb5af1b4c
+  - enabled: 1
+    path: Assets/Scenes/Far and Wild West/Far and Wild East.unity
+    guid: 3f5b1f324d1bbbb419b1352ec85f6268
+  - enabled: 1
+    path: Assets/Scenes/scene08 ButtonFlee/ButtonFlee 2.unity
+    guid: 59876ff061a43f54993e05f6a96d60d2
   - enabled: 1
     path: Assets/Scenes/Menu Final/THE GAME.unity
     guid: ee54a75e8c59fb64084bd8faa7563c5b
+  - enabled: 1
+    path: Assets/Scenes/MenuOptions/Menu Options.unity
+    guid: bf335e03d5cb8aa4faa905529b6588c1
   m_configObjects: {}
